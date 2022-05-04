@@ -1,3 +1,5 @@
+![natterstefan](https://res.cloudinary.com/vrilli/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1651689194/esslogan_kbjouq.png)
+
 ![GitHub Views](https://komarev.com/ghpvc/?username=Vrilli&color=ea97f0)
 
 
