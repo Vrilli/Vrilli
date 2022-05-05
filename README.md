@@ -3,7 +3,7 @@
 
 ### Hi there 👋,
 
-I am Vrilli Castro,
+**I am Vrilli Castro**,
 
 I am a girl who is loving programming, wants to continue growing in this wonderful world and be able to be in her dream job, doing what she loves, contributing creativity and perseverance to her team.  🤝💪🏾👩🏿‍💻👩🏿‍💻.
 
