@@ -36,7 +36,7 @@
 <div>
 <a href = 'https://www.linkedin.com/in/vrilli-castro-rodriguez-37584822a/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://twitter.com/vrillycastro1'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://github.com/Villi'> <img width = '32px' align= 'center' src="github.png"/></a> 
+<a href = 'https://github.com/vrilli'> <img width = '32px' align= 'center' src="github.png"/></a> 
 
 </div>
 
